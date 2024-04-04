@@ -1,0 +1,6 @@
+Building the REST API using Spring data MongoDB
+Perform database migrations using Mongock
+Testing your MongoDB layer using Test Containers
+
+mongodb+srv://AnshikaSoni:<.#.x2D-S36PTnrU>@cluster0.kvxi6mp.mongodb.net/
+mongodb://localhost:27017/expense_tracker
