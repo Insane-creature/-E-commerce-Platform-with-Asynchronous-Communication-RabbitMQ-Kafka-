@@ -10,6 +10,7 @@ import java.math.BigDecimal;
 // Defining doc so that Mongodb can Identify the String
 @Document("expense")
 public class Expense {
+    
     @Id // So that spring understands this is unique identifier
     private String id;
     private String expenseName;
